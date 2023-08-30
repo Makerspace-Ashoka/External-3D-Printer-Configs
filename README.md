@@ -6,10 +6,10 @@ Welcome to our internal 3D printer configuration repository! This repository con
 
 | Branch       | Printer Name     | Superslicer Config | Orca Slicer Config |
 |--------------|------------------|--------------------|--------------------|
-| [augustus](link) | Augustus (Ender 3 Pro) | :white_check_mark: | :construction:    |
-| [augustine](link) | Augustine (Ender 3 Pro) | :white_check_mark: | :construction:    |
-| [may](link)       | May (Ender 6)           | :white_check_mark: | :construction:    |
-| [voron](link)     | Unnamed Voron 2.4       | :white_check_mark: | :construction:    |
+| [augustus](link) | Augustus (Ender 3 Pro) | :construction: | :construction:    |
+| [augustine](link) | Augustine (Ender 3 Pro) | :construction: | :construction:    |
+| [may](link)       | May (Ender 6)           | :construction: | :construction:    |
+| [voron](link)     | Unnamed Voron 2.4       | :construction: | :construction:    |
 
 ## How to Use
 
