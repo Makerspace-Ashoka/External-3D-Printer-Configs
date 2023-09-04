@@ -1,24 +1,24 @@
 # 3D Printer Configuration Repository
 
-Welcome to our internal 3D printer configuration repository! This repository contains configuration files for all the 3D printers at the Makerspace. Each printer has its own branch with specific configuration settings.
+Welcome to our public 3D printer configuration repository! This repository contains configuration files for Augustus(Ender3 V2) at the Makerspace. Each printer has its own branch with specific configuration settings.
 
-## Branches and Configurations
+## How to use
 
-## How to Use
+1. Clone this repo onto your device.
 
-1. Clone the repository.
-2. Switch to the branch corresponding to the printer assigned to you.
-3. Access the configuration files for the selected printer and slicer software.
+2. Find the location of the .ini file with the name of the printer you wish to use.
 
-## Roadmap
+3. Install and open the latest [SuperSlicer](https://github.com/supermerill/SuperSlicer) release based on your machine.
 
-- [x] Set up repository with Superslicer configs.
-- [ ] Add Orca Slicer configs for all printers.
-- [ ] Establish public mirrors for specific printers with up-to-date configs.
+4. Open SuperSlicer and follow the instructions
 
-## Contributing
+:warning: **WHEN ASKED TO IMPORT PRESETS, CLICK NEXT TILL YOU REACH CUSTOM PRINTER.**
 
-Contributions to improve and expand the configuration files are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
+:warning: **CHECK THE BOX THAT SAYS "Define a custom printer profile" and under "Custom profile name:" LABEL IT DEFAULT**
+
+![As shown](images/SuperSlicer_custom_profiler.png)
+
+Following this go to Files :arrow_right: Import :arrow_right: Import Config Bundle... :arrow_right: (Select the .ini file as mentioned in point 2 above)
 
 ## License
 
