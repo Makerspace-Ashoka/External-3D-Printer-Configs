@@ -4,13 +4,6 @@ Welcome to our internal 3D printer configuration repository! This repository con
 
 ## Branches and Configurations
 
-| Branch       | Printer Name     | Superslicer Config | Orca Slicer Config |
-|--------------|------------------|--------------------|--------------------|
-| [augustus](link) | Augustus (Ender 3 V2) | :construction: | :construction:    |
-| [augustine](link) | Augustine (Ender 3 V2) | :construction: | :construction:    |
-| [may](link)       | May (Ender 6)           | :construction: | :construction:    |
-| [voron](link)     | Unnamed Voron 2.4       | :construction: | :construction:    |
-
 ## How to Use
 
 1. Clone the repository.
